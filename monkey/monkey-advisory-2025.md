@@ -243,7 +243,7 @@ An out-of-bounds read in the mk_mimetype_find function (mk_server/mk_mimetype.c)
 
 **Description**
 
-A stack overflow in the mk_http_index_lookup function (mk_server/mk_http.c) of monkey commit f37e984 allows attackers to cause a Denial of Service (DoS) via sending a crafted HTTP request to the server.
+A stack overflow in the mk_http_index_lookup function (mk_server/mk_http.c) of monkey commit f37e984 allows attackers to cause a Denial of Service (DoS) or potentially cause a Remote Code Execution via sending a crafted HTTP request to the server.
 
 **Affected Versions**
 

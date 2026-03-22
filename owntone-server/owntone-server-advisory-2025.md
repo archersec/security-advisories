@@ -24,6 +24,9 @@ NULL pointer dereference in the daap_reply_groups function in src/httpd_daap.c i
 
 - Fixed in commit: https://github.com/owntone/owntone-server/commit/d857116e4143a500d6a1ea13f4baa057ba3b0028
 
+**References**
+
+- Proof of concept: https://github.com/archersec/poc/tree/master/owntone-server-CVE-2025-57155
 
 **Disclosure Timeline**
 

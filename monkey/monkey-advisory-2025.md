@@ -33,6 +33,7 @@ An out-of-bounds read in the http_parser_transfer_encoding_chunked function (mk_
 
 - 2025-10: CVE ID requested
 - 2025-10: CVE ID assigned
+- 2026-01: disclosed
 
 ---
 
@@ -62,6 +63,7 @@ An out-of-bounds read in the mk_ptr_to_buf function (mk_core/mk_memory.c) of mon
 
 - 2025-10: CVE ID requested
 - 2025-10: CVE ID assigned
+- 2026-01: disclosed
 
 ---
 
@@ -91,6 +93,7 @@ A use-after-free in the mk_string_char_search function (mk_core/mk_string.c) of 
 
 - 2025-10: CVE ID requested
 - 2025-10: CVE ID assigned
+- 2026-01: disclosed
 
 ---
 
@@ -120,6 +123,7 @@ A use-after-free in the mk_http_request_end function (mk_server/mk_http.c) of mo
 
 - 2025-10: CVE ID requested
 - 2025-10: CVE ID assigned
+- 2026-01: disclosed
 
 ---
 
@@ -149,6 +153,7 @@ An out-of-bounds read in the mk_vhost_fdt_close function (mk_server/mk_vhost.c) 
 
 - 2025-10: CVE ID requested
 - 2025-10: CVE ID assigned
+- 2026-01: disclosed
 
 ---
 
@@ -178,6 +183,7 @@ A NULL pointer dereference in the mk_http_range_parse function (mk_server/mk_htt
 
 - 2025-10: CVE ID requested
 - 2025-10: CVE ID assigned
+- 2026-01: disclosed
 
 ---
 
@@ -207,6 +213,7 @@ An out-of-bounds read in the header_cmp function (mk_server/mk_http_parser.c) of
 
 - 2025-10: CVE ID requested
 - 2025-10: CVE ID assigned
+- 2026-01: disclosed
 
 ---
 
@@ -236,6 +243,7 @@ An out-of-bounds read in the mk_mimetype_find function (mk_server/mk_mimetype.c)
 
 - 2025-10: CVE ID requested
 - 2025-10: CVE ID assigned
+- 2026-01: disclosed
 
 ---
 
@@ -266,4 +274,5 @@ A stack overflow in the mk_http_index_lookup function (mk_server/mk_http.c) of m
 
 - 2025-10: CVE ID requested
 - 2025-10: CVE ID assigned
+- 2026-01: disclosed
 

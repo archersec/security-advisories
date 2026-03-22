@@ -29,6 +29,7 @@ NULL pointer dereference in the daap_reply_groups function in src/httpd_daap.c i
 
 - 2025-07: CVE ID requested
 - 2025-09: CVE ID assigned
+- 2026-01: disclosed
 
 ---
 
@@ -58,6 +59,7 @@ NULL pointer dereference in the dacp_reply_playqueueedit_clear function in src/h
 
 - 2025-07: CVE ID requested
 - 2025-09: CVE ID assigned
+- 2026-01: disclosed
 
 ---
 
@@ -87,6 +89,7 @@ A NULL pointer dereference in the parse_meta function (src/httpd_daap.c) of ownt
 
 - 2025-10: CVE ID requested
 - 2025-10: CVE ID assigned
+- 2026-01: disclosed
 
 ---
 
@@ -116,3 +119,4 @@ A NULL pointer dereference in the dacp_reply_playqueueedit_move function (src/ht
 
 - 2025-10: CVE ID requested
 - 2025-10: CVE ID assigned
+- 2026-01: disclosed

@@ -32,6 +32,7 @@ A NULL pointer dereference in the daap_reply_playlists function (src/httpd_daap.
 
 - 2026-01: CVE ID requested
 - 2026-02: CVE ID assigned
+- 2026-03: disclosed
 
 ---
 
@@ -61,4 +62,5 @@ A NULL pointer dereference in the safe_atou64 function (src/misc.c) of owntone-s
 
 - 2026-01: CVE ID requested
 - 2026-02: CVE ID assigned
+- 2026-03: disclosed
 
